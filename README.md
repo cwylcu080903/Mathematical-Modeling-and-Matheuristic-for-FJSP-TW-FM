@@ -35,17 +35,9 @@ Each `.fjs` file defines:
 
 ## ⚙️ Methods
 
-### 1. Constraint Programming (CP)
+### 1. CP model
+### 2. GA-CP
 
-- Implemented using `docplex.cp`
-
----
-
-### 2. GA-CP Matheuristic
-
-- Hybrid algorithm combining:
-  - Genetic Algorithm (GA) for global search  
-  - Constraint Programming (CP) for solution refinement
  
 ## 📎 Code Availability
 
