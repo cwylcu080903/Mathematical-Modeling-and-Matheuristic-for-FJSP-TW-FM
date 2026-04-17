@@ -5,6 +5,7 @@ This repository provides implementations for solving the **Flexible Job Shop Sch
 ---
 
 ## 📁 Repository Structure
+```
 FJSP_WINDOWSPM_GITHUB/
 ├── dataset/ # Benchmark instances
 │ ├── MFJS01.fjs
@@ -17,6 +18,7 @@ FJSP_WINDOWSPM_GITHUB/
 ├── cp_model.py # Constraint Programming model for FJSP-TW-FM
 ├── ga_cp.py # GA-CP matheuristic algorithm
 └── README.md
+```
 
 ## 📊 Datasets
 
