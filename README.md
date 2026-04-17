@@ -1,7 +1,5 @@
 # Mathematical Modeling and Matheuristic for FJSP-TW-FM
-
-This repository provides implementations for solving the **Flexible Job Shop Scheduling Problem with Time-Window-Based Fixed Maintenance (FJSP-TW-FM)**.
-
+This repository provides implementations of the CP model and  GA-CP for the Flexible Job Shop Scheduling Problem with Time-Window-Based Fixed Maintenance.
 ---
 
 ## 📁 Repository Structure
