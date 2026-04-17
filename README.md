@@ -22,8 +22,8 @@ FJSP_WINDOWSPM_GITHUB/
 
 ## 📊 Datasets
 
-- **MFJS01–MFJS10**: Modified flexible job shop instances  
-- **Mk01–Mk10**: Benchmark instances adapted with maintenance constraints  
+- **MFJS01–MFJS10**  
+- **Mk01–Mk10** 
 
 Each `.fjs` file defines:
 
@@ -38,11 +38,6 @@ Each `.fjs` file defines:
 ### 1. Constraint Programming (CP)
 
 - Implemented using `docplex.cp`
-- Models:
-  - Operation-machine assignment  
-  - Precedence constraints  
-  - Machine capacity constraints  
-  - Maintenance time-window constraints  
 
 ---
 
