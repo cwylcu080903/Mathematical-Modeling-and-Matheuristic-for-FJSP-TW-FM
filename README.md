@@ -1,6 +1,9 @@
 # Mathematical Modeling and Matheuristic for FJSP-TW-FM
 This repository provides implementations of the CP model and  GA-CP for the Flexible Job Shop Scheduling Problem with Time-Window-Based Fixed Maintenance.
 ---
+## 📎 Code Availability
+
+The associated manuscript is currently under peer review. The full implementation will be made publicly available upon acceptance.
 
 ## 📁 Repository Structure
 ```
@@ -37,6 +40,4 @@ Each `.fjs` file defines:
 ### 2. GA-CP
 
  
-## 📎 Code Availability
 
-The associated manuscript is currently under peer review. The full implementation will be made publicly available upon acceptance.
